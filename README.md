@@ -1,6 +1,5 @@
 # Demo
 
-some description!
 
 ##subheader
 
